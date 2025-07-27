@@ -1,0 +1,8 @@
+yt_dlp
+python-telegram-bot
+httpx
+anyio
+certifi
+h11
+httpcore
+sniffio
